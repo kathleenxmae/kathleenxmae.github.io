@@ -1,0 +1,121 @@
+html {
+	background-image: url("http://68.media.tumblr.com/e373e165417e4e5abe9aeecd44c51dd6/tumblr_inline_mkjle4mZGl1qz4rgp.jpg");
+}
+
+h1 {
+	letter-spacing: 3px;
+	line-height: 0.5;
+	font-family: "Times New Roman";
+}
+
+header {
+	text-indent: 30px;
+	text-decoration: underline;
+	font-size: 17px;
+	line-height: 2.0;
+}
+
+div#covers {
+	margin: auto;
+	position: relative;
+	height: 200px;
+	width: 200px;
+}
+
+.info {
+	text-align: left;
+	position: relative;
+	font-size: 15px;
+	line-height: 0.2;
+}
+
+.indent {
+	text-indent: 90px;
+}
+
+nav {
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+	position: relative;
+	height: 700px;
+	width: 500px;
+}
+
+.portfolio {
+	text-align: center;
+}
+
+div#socialmedia {
+	width: 770px;
+	margin:0 auto;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	text-align: center;
+	border: 1px solid #8F9493;
+	padding-left: 120px;
+}
+
+div#Facebook {
+	display: initial;
+	float: left;
+	margin: 2px;
+	width: 150px;
+	height: 150px;
+}
+
+div#Facebook:hover {
+	background: url(http://i1243.photobucket.com/albums/gg558/Kathleen-Mae_Ramas/4b2643bb-71be-4e89-b341-7308e4dfecd3_zpsh4pip8dp.png);
+	width: 150px;
+	height: 150px;
+	background-position:0 -150px;
+}
+
+div#Instagram {
+	display: initial;
+	float: left;
+	margin: 2px;
+	width: 150px;
+	height: 150px;
+}
+
+div#Instagram:hover {
+	background: url(http://i1243.photobucket.com/albums/gg558/Kathleen-Mae_Ramas/5dca3bbb-431e-4956-88a7-03def42b5f3a_zpsgbsaqjtl.png);
+	width: 150px;
+	height: 150px;
+	background-position:0 -150px;
+}
+
+div#Twitter {
+	display: initial;
+	float: left;
+	margin: 2px;
+	width: 150px;
+	height: 150px;
+}
+
+div#Twitter:hover {
+	background: url(http://i1243.photobucket.com/albums/gg558/Kathleen-Mae_Ramas/baa31eb1-49c3-4840-987d-370f013d7fcf_zps9str9ija.png);
+	width: 150px;
+	height: 150px;
+	background-position:0 -150px;
+}
+
+div#YouTube {
+	display: initial;
+	float: left;
+	margin: 2px;
+	width: 150px;
+	height: 150px;
+}
+
+div#YouTube:hover {
+	background: url(http://i1243.photobucket.com/albums/gg558/Kathleen-Mae_Ramas/154d646e-fbb4-41cf-ae56-f6291b9547dd_zps5clwpwjk.png);
+	width: 150px;
+	height: 150px;
+	background-position:0 -150px;
+}
+
